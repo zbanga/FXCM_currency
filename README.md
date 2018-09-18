@@ -19,7 +19,10 @@ Unique implimentation of this is binning the data according to voltility
 
 
 Results:
+
 Out-of-sample:
+
+
 ![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-11%20at%207.07.12%20pm.png "Description goes here")
 
     
