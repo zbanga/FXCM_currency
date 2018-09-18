@@ -7,10 +7,11 @@ Also will aim to look at or account for variable change in prediction, say you i
 
 
 
-
 Documentation for FXCM API: http://fxcmpy.tpq.io/
 
 Adpated from : http://hilpisch.com/fxcm_ai.html
+
+Download or install jupyter notebook to view files
 
 Add your token from FXCM to the fxcm.cfg to start trading
 
