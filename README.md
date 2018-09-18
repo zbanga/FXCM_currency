@@ -16,3 +16,11 @@ Download or install jupyter notebook to view files
 Add your token from FXCM to the fxcm.cfg to start trading (Create a demo account and login to https://tradingstation.fxcm.com/ and find the token (should be under account)
 
 Unique implimentation of this is binning the data according to voltility 
+
+
+Results:
+![Alt text](FXCM_currency/Screen Shot 2018-09-11 at 7.07.12 pm.png?raw=true "Title")
+
+      
+    
+
