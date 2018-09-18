@@ -20,7 +20,7 @@ Unique implimentation of this is binning the data according to voltility
 
 Results:
 
-![Screen Shot 2018-09-11 at 7.07.12 pm.png](Screen Shot 2018-09-11 at 7.07.12 pm.png)
+![Screen Shot 2018-09-11 at 7.07.12 pm.png]
 
     
 
