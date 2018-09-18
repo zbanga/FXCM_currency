@@ -18,13 +18,13 @@ Add your token from FXCM to the fxcm.cfg to start trading (Create a demo account
 Unique implimentation of this is binning the data according to voltility 
 
 
-Results:
+##Results:
 
-Out-of-sample:
+###Out-of-sample:
 
 
 ![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-11%20at%207.07.12%20pm.png "Description goes here")
 
     
-In-sample:
+###In-sample:
 ![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-11%20at%207.21.48%20pm.png "Description goes here")
