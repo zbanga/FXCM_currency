@@ -20,7 +20,7 @@ Unique implimentation of this is binning the data according to voltility
 
 Results:
 
-![Image description](FXCM_currency/Screen Shot 2018-09-11 at 7.07.12 pm.png)
+![Image description](Screen Shot 2018-09-11 at 7.07.12 pm.png)
 
     
 
