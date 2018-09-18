@@ -5,6 +5,8 @@ Example: https://github.com/SolbiatiAlessandro/RNN-stocks-prediction (dynamic pr
 
 Also will aim to look at or account for variable change in prediction, say you in are currently in a trade but new data (or news) comes in suggesting that the current prediction is no longer accurate (try to minimise position or close out the current position).
 
+Live trading is being implemented and working rudementary (trade at your own risk)(Does not close positions by itself)
+
 
 
 Documentation for FXCM API: http://fxcmpy.tpq.io/
