@@ -33,7 +33,7 @@ Unique implimentation of this is binning the data according to voltility
 
 
 ### Out-of-sample with transaction costs:
-
+#### Assuming FXCM active traders costs
 
 ![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-20%20at%209.32.30%20pm.png "Description goes here")
 
