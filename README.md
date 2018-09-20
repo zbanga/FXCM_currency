@@ -30,6 +30,14 @@ Unique implimentation of this is binning the data according to voltility
 
 ![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-11%20at%207.07.12%20pm.png "Description goes here")
 
+
+
+### Out-of-sample with transaction costs:
+
+
+![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-20%20at%209.32.30%20pm.png "Description goes here")
+
+
     
 ### In-sample:
 ![alt tag](https://github.com/zbanga/FXCM_currency/blob/master/Screen%20Shot%202018-09-11%20at%207.21.48%20pm.png "Description goes here")
