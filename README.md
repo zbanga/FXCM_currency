@@ -2,7 +2,7 @@
 
 Using a simple machine learning model called a SVM model to predict and trade currencies. Currently it is on fixed/static time prediction (next bar), improvements will be used for varying forward time window predcition(Instead of using 5 min bars to predict the next 5 mins, aim to predict  longer ahead)
 
-Another interesting is trying to predict over an amount (basically transaction costs). Will aim to bin the data after minusing the transaction costs. 
+Another interesting idea is trying to predict over an amount (basically transaction costs). Will aim to bin the data after minusing the transaction costs. 
 
 Example: https://github.com/SolbiatiAlessandro/RNN-stocks-prediction (dynamic prediction).
 
